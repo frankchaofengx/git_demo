@@ -1,1 +1,2 @@
 Add index_copy.html file
+This is the change after put into remote server
